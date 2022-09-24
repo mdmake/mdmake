@@ -9,8 +9,7 @@
 - 💬 Ask me about Mashine Learnig
 - 📫 How to reach me: mail!
 - ⚡ Fun fact: i love runsity and computer games especisll CIV VI
--->Here are some ideas to get you started:
-
+-->
 
 - 🔭 I’m currently working on my Yandex.Practicum courses and my work
 - 🌱 I’m currently learning Mashine Learnig and graph theory.
