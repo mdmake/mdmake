@@ -12,4 +12,3 @@
 - 💬 Ask me about Machine Learnig
 - 📫 How to contact me: mail and tg!
 - ⚡ Fun fact: I love raniti and computer games, especially CIV VI
---> Here are some ideas to get you started:
