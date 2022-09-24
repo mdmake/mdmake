@@ -3,17 +3,13 @@
 <!--
 **mdmake/mdmake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on my Yandex.Practicum courses and my work
-- 🌱 I’m currently learning Mashine Learnig and graph theory.
-- 🤔 I’m looking for help with all that
-- 💬 Ask me about Mashine Learnig
-- 📫 How to reach me: mail!
-- ⚡ Fun fact: i love runsity and computer games especisll CIV VI
+
 -->
 
-- 🔭 I’m currently working on my Yandex.Practicum courses and my work
-- 🌱 I’m currently learning Mashine Learnig and graph theory.
-- 🤔 I’m looking for help with all that
-- 💬 Ask me about Mashine Learnig
-- 📫 How to reach me: mail!
-- ⚡ Fun fact: i love runsity and computer games especisll CIV VI
+- 🔭 Now I'm working on Yandex.Practicum courses and my work
+- 🌱 Now I'm studying Machine Learning and Graph Theory.
+- 🤔 I'm looking for help with all this
+- 💬 Ask me about Machine Learnig
+- 📫 How to contact me: mail and tg!
+- ⚡ Fun fact: I love raniti and computer games, especially CIV VI
+--> Here are some ideas to get you started:
