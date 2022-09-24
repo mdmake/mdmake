@@ -10,5 +10,5 @@
 - 🌱 Now I'm studying Machine Learning and Graph Theory.
 - 🤔 I'm looking for help with all this
 - 💬 Ask me about Machine Learnig
-- 📫 How to contact me: mail and tg!
-- ⚡ Fun fact: I love raniti and computer games, especially CIV VI
+- 📫 How to contact me: mail mmake.md@gmail.com and tg: @mmakemd
+- ⚡ Fun fact: I love runsity quests, reading and computer games)
