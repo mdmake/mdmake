@@ -8,7 +8,6 @@
 
 - 🔭 Now I'm working as DS
 - 🌱 Now I'm studying Machine Learning and Graph Theory.
-- 🤔 I'm looking for help GNN
 - 💬 Ask me about Machine Learnig
 - 📫 How to contact me: mail mmake.md@gmail.com and tg: @mmakemd
 - ⚡ Fun fact: I love runsity.org quests, reading and computer games)
